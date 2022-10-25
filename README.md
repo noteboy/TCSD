@@ -13,4 +13,12 @@ Coming Soon!
 ### Datasets
 
 ## Citation
-
+```
+@article{liu2022tcsd,
+  title={TCSD: Triple Complementary Streams Detector for Comprehensive Deepfake Detection},
+  author={Liu, Xiaolong and Yu, Yang and Li, Xiaolong and Zhao, Yao and Guo, Guodong},
+  journal={ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)},
+  year={2022},
+  publisher={ACM New York, NY}
+}
+```
